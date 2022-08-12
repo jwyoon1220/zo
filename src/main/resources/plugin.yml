@@ -1,0 +1,13 @@
+name: Main
+version: '${version}'
+main: ajjertv.main.Main
+api-version: 1.19
+commands:
+  zo:
+    description: zo를 스폰합니다
+  Bob:
+    description: Bob을 스폰합니다
+  Aob:
+    description: Aob을 스폰합니다
+  Cbob:
+    description: 콘솔, 커맨드에서 Bob을 스폰할수 있게합니다.
